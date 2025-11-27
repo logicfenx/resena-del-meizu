@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/resena-del-meizu",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a resena-del-meizu",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/resena-del-meizu.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/resena-del-meizu-lucky-085g/"
+    },
+    "homepage": "https://bitcu.co/resena-del-meizu-lucky-085g/"
+}
